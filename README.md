@@ -1,12 +1,16 @@
-- 👋 Hi, I’m an aspiring web developer who is interested in contributing and collaborating and most of all learning
-- 👀 I have put out a few projects planning to put out more this year.
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on all my projects which I upload all my projects are 100% open sourced feel free to copy as much as your hearts desire and correct 
-- my code where you see fit I will also being copying and modifying other open sourced code, stars is how I will measure my progress 
--
+- 👋 Hi, I’m a web developer and most of all learning
+- 👀 I am a proud web developer learning as much as possible to master web dev, 
+- 🌱 I’m currently learning React.js.
+- 📈 I am also currently learning git and github
+- 📖 Everything on my github is completely opensource (copy, modify, expand or post as much as you want)
+- 🆕 In the process of completely mastering web development,
+- ⭐ The more stars the better so star my projects,
+- 💰 A donation will be deeply apprecited. 
+- 
 - 
 - 
 <!---
+I am making lots of web dev projects (react.js) and posting them here as I mentioned everything on this github is completely opensource,
 
 
 --->
